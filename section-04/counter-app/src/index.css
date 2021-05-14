@@ -1,0 +1,12 @@
+html, body {
+    color: white;
+    background-color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    text-align: center;
+}
+
+button {
+    font-size: large;
+    padding: 10px;
+}
